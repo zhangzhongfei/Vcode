@@ -1,0 +1,25 @@
+{
+  "name": "zhangzhongfei/Vcode",
+  "version":"0.1.0",
+  "description": "code.",
+  "keywords": ["code", "vitex"],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/zhangzhongfei/Vcode/issues",
+    "source": "https://github.com/zhangzhongfei/Vcode"
+  },
+  "authors": [
+    {
+      "name": "zhangzhongfei",
+      "email": "zhangzhongfei21@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "ext-mcrypt": "*",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "psr-4": {"vitex\\": "vitex"}
+  }
+}
