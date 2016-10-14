@@ -1,5 +1,5 @@
 <?php
-namespace Vcode;
+namespace vcode;
 
 class Captcha
 {
