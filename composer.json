@@ -20,6 +20,6 @@
     "ext-mbstring": "*"
   },
   "autoload": {
-    "psr-4": {"Vcode\\": ""}
+    "psr-4": {"Vcode\\": "/"}
   }
 }
