@@ -1,5 +1,6 @@
 <?php
-namespace vitex\ext;
+namespace Vcode;
+
 class Captcha
 {
     //配置
