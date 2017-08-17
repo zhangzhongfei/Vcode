@@ -3,7 +3,7 @@ namespace vcode;
 
 class Captcha
 {
-    //配置
+    //配置信息
     /**
      * 验证码类型，1为普通验证码，2为计算型验证码
      * @var int
